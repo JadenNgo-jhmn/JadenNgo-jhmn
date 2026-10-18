@@ -3,7 +3,7 @@
    
   I’m currently learning **Java,Python,JavaScript**
 
-  Ask me about **Anything about Bleach I probably know**
+  Ask me **Anything about Bleach, I probably know**
 
  📫 How to reach me **jadenngo.jhmn@gmail.com**
 

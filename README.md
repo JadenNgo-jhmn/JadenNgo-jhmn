@@ -1,4 +1,4 @@
-![Header](./<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/119214cf-8edd-414e-885a-5f8c58514276" />)
+(./<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/119214cf-8edd-414e-885a-5f8c58514276" />
 
   I’m currently learning **Java,Python,JavaScript**
 

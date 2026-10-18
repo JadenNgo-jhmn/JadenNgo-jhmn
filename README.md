@@ -1,5 +1,6 @@
 
-
+  Hello! My name is Jaden Ngo 👀
+   
   I’m currently learning **Java,Python,JavaScript**
 
   Ask me about **Anything about Bleach I probably know**

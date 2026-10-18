@@ -10,7 +10,7 @@
 - ⚡ Fun fact **My favorite anime is Bleach :)**
   
 - <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img data-importer="image" height="200" src="https://i.giphy.com/rw3oHXGVUuUE0.webp"  />
 </div>
 
 <h3 align="left">Connect with me:</h3>

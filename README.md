@@ -1,5 +1,5 @@
-<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/ceae7185-012d-4bec-a641-f77060595f7f" />
-
+![Header](.<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/3844f6f5-20ad-44b7-9253-b42f7ef2c275" />
+)
 
   I’m currently learning **Java,Python,JavaScript**
 

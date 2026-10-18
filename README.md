@@ -8,6 +8,10 @@
 - 📫 How to reach me **jadenngo.jhmn@gmail.com**
 
 - ⚡ Fun fact **My favorite anime is Bleach :)**
+  
+- <div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

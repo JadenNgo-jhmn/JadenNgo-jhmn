@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Jaden Ngo</h1>
 <h3 align="center">Future CS/SE Major</h3>
 
-- 🌱 I’m currently learning **Java,Python,JavaScript**
+  I’m currently learning **Java,Python,JavaScript**
 
-- 💬 Ask me about **Anything about Bleach I probably know**
+  Ask me about **Anything about Bleach I probably know**
 
-- 📫 How to reach me **jadenngo.jhmn@gmail.com**
+ 📫 How to reach me **jadenngo.jhmn@gmail.com**
 
-- ⚡ Fun fact **My favorite anime is Bleach :)**
+ ⚡ Fun fact **My favorite anime is Bleach :)**
   
  <div data-importer="image" align="left">
   <img data-importer="image" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJwYnVndGoweHk1MHQ0OXJqMzJuYmNtYThndzRjajAya2ozZjJueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KI14N7D3AJ4SA/giphy.gif"  />

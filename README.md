@@ -1,4 +1,5 @@
-/<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/119214cf-8edd-414e-885a-5f8c58514276" />
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/ceae7185-012d-4bec-a641-f77060595f7f" />
+
 
   I’m currently learning **Java,Python,JavaScript**
 

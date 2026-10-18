@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jaden Ngo</h1>
-<h3 align="center">A future CyberSecurity/Software Engineer</h3>
+<h3 align="center">Future CS/SE Major</h3>
 
 - 🌱 I’m currently learning **Java,Python,JavaScript**
 
@@ -10,7 +10,7 @@
 - ⚡ Fun fact **My favorite anime is Bleach :)**
   
 - <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.giphy.com/rw3oHXGVUuUE0.webp"  />
+  <img data-importer="image" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJwYnVndGoweHk1MHQ0OXJqMzJuYmNtYThndzRjajAya2ozZjJueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KI14N7D3AJ4SA/giphy.gif"  />
 </div>
 
 <h3 align="left">Connect with me:</h3>

@@ -1,11 +1,11 @@
 
   Hello! My name is Jaden Ngo 👀
    
-  I’m currently learning **Java,Python,JavaScript**
+  I’m currently on track with **Java,Python,JavaScript**
 
-  Ask me **anything about Bleach, I probably know**
+  Ask me **anything about Bleach; I probably know**
 
- 📫 How to reach me **jadenngo.jhmn@gmail.com**
+ 📫 How to reach me: **jadenngo.jhmn@gmail.com**
 
  ⚡ Fun fact **My favorite anime is Bleach :)**
   

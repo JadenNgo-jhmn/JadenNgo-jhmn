@@ -21,7 +21,7 @@
   <a href="https://www.youtube.com/@JadenNgoo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="jadenngo.jhmn@gmail.com" target="_blank">
+  <a href="mailto:jadenngo.jhmn@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://linktr.ee/jadenngo.jhmn" target="_blank">
